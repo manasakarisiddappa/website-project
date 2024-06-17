@@ -1,3 +1,8 @@
+# Simple website using Tailwind CSS
+![image](https://github.com/manasakarisiddappa/website-project/assets/48428277/212b3c74-18e8-43e8-873a-85fa7a779108)
+
+
+
 # Simple Tailwind CSS Starter
 
 This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
